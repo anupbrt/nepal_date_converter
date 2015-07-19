@@ -1,5 +1,5 @@
 require "nepal_date_converter/version"
-require 'debugger'
+#require 'debugger'
 
 module NepalDateConverter
   extend self
